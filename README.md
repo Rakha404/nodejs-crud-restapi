@@ -14,8 +14,9 @@ DAN GAK KALAH PENTING, PASTIKAN ADA INTERNET
 
 4. Download atau clone project ini di VSCode
 
-5. Untuk menjalankan project ini, ketik "npm tun dev" di terminal Command Prompt
+5. Untuk menjalankan project ini, ketik "npm run dev" di terminal Command Prompt, jika ada pesan "MySQL berhasil connect!", project berjalan lancar
 
+6. Untuk mencoba test API copy+paste link : http://localhost:3000 ke postman/insomnia
 
 <h2>CATEGORY</h2>
 1. Menampilkan semua data
