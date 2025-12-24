@@ -14,7 +14,7 @@ DAN GAK KALAH PENTING, PASTIKAN ADA INTERNET
 
 4. Download atau clone project ini di VSCode
 
-5. untuk menjalankan project ini, ketika "npm tun dev" di terminal Command Prompt
+5. Untuk menjalankan project ini, ketik "npm tun dev" di terminal Command Prompt
 
 
 <h2>CATEGORY</h2>
